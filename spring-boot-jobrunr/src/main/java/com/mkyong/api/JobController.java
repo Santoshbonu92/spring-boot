@@ -58,4 +58,8 @@ public class JobController {
       return null;
     }
 
+    public String fetchJobById(int id) {
+       return null;
+     }
+
 }
